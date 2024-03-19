@@ -1,8 +1,8 @@
 import Image from "next/image";
 
 import FeatImage01 from "@/public/images/dark.png";
-import FeatImage02 from "@/public/light.png";
-import FeatImage03 from "@/public/3.png";
+import FeatImage02 from "@/public/images/light.png";
+import FeatImage03 from "@/public/images/3.png";
 
 export default function Zigzag() {
   return (
