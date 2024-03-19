@@ -1,8 +1,8 @@
 import Image from "next/image";
 
-import FeatImage01 from "/images/dark.png";
-import FeatImage02 from "/images/light.png";
-import FeatImage03 from "/images/3.png";
+import FeatImage01 from "@/public/images/dark.png";
+import FeatImage02 from "@/public/light.png";
+import FeatImage03 from "@/public/3.png";
 
 export default function Zigzag() {
   return (
@@ -31,6 +31,7 @@ export default function Zigzag() {
                 data-aos="fade-up"
               >
                 <Image
+                  unoptimized
                   className="max-w-full mx-auto md:max-w-none h-auto"
                   src={FeatImage01}
                   width={540}
@@ -98,6 +99,7 @@ export default function Zigzag() {
                 data-aos="fade-up"
               >
                 <Image
+                  unoptimized
                   className="max-w-full mx-auto md:max-w-none h-auto"
                   src={FeatImage02}
                   width={540}
@@ -164,6 +166,7 @@ export default function Zigzag() {
                 data-aos="fade-up"
               >
                 <Image
+                  unoptimized
                   className="max-w-full mx-auto md:max-w-none h-auto"
                   src={FeatImage03}
                   width={540}
