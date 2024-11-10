@@ -35,7 +35,7 @@ export default function Testimonials() {
                     alt="Testimonial 01"
                   />
                   <svg
-                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-purple-600"
+                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-[#f43f5e]"
                     viewBox="0 0 24 20"
                     xmlns="http://www.w3.org/2000/svg"
                   >
@@ -69,7 +69,7 @@ export default function Testimonials() {
                     alt="Testimonial 02"
                   />
                   <svg
-                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-purple-600"
+                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-[#f43f5e]"
                     viewBox="0 0 24 20"
                     xmlns="http://www.w3.org/2000/svg"
                   >
@@ -106,7 +106,7 @@ export default function Testimonials() {
                     alt="Testimonial 03"
                   />
                   <svg
-                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-purple-600"
+                    className="absolute top-0 right-0 -mr-3 w-6 h-5 fill-current text-[#f43f5e]"
                     viewBox="0 0 24 20"
                     xmlns="http://www.w3.org/2000/svg"
                   >
@@ -115,7 +115,7 @@ export default function Testimonials() {
                 </div>
               </div>
               <blockquote className="text-lg text-gray-400 grow">
-                Recomendo fortemente a MULTICONTABIL a qualquer empresa que
+                Recomendo fortemente a HellowChat a qualquer empresa que
                 busca serviços de Multiatendimento de alta qualidade. Obrigado,
                 por serem um parceiro
               </blockquote>

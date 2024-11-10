@@ -45,7 +45,7 @@ export default function Zigzag() {
                 data-aos="fade-right"
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  <div className="font-architects-daughter text-xl text-[#f43f5e] mb-2">
                     Mais velocidade. Menos gastos
                   </div>
                   <h3 className="h3 mb-3">Organize seus atendimentos</h3>
@@ -113,7 +113,7 @@ export default function Zigzag() {
                 data-aos="fade-left"
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  <div className="font-architects-daughter text-xl text-[#f43f5e] mb-2">
                     Mais velocidade. Menos gastos
                   </div>
                   <h3 className="h3 mb-3">Novos temas</h3>
@@ -180,7 +180,7 @@ export default function Zigzag() {
                 data-aos="fade-right"
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-purple-600 mb-2">
+                  <div className="font-architects-daughter text-xl text-[#f43f5e] mb-2">
                     Mais velocidade. Menos gastos
                   </div>
                   <h3 className="h3 mb-3">Integrações via API</h3>

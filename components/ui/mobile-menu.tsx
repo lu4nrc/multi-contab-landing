@@ -71,8 +71,8 @@ export default function MobileMenu() {
         <ul className="bg-gray-800 px-4 py-2">
           <li>
             <a
-              href="https://api.whatsapp.com/send?phone=5563992086480&text=Preciso%20de%20ajuda%20com%20meu%20sistema%20MultiContab."
-              className="flex font-medium w-full text-purple-600 hover:text-gray-200 py-2 justify-center"
+              href="https://api.whatsapp.com/send?phone=556391000032&text=Preciso%20de%20ajuda%20com%20meu%20sistema%20HellowChat."
+              className="flex font-medium w-full text-[#f43f5e] hover:text-gray-200 py-2 justify-center"
               onClick={() => setMobileNavOpen(false)}
             >
               Central do cliente
@@ -80,8 +80,8 @@ export default function MobileMenu() {
           </li>
           <li>
             <a
-              href="https://api.whatsapp.com/send?phone=5563992086480&text=Ol%C3%A1,%20quero%20saber%20mais%20sobre%20sistema%20MultiContab."
-              className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out"
+              href="https://api.whatsapp.com/send?phone=556391000032&text=Ol%C3%A1,%20quero%20saber%20mais%20sobre%20sistema%20HellowChat."
+              className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-[#f43f5e] hover:bg-[#f43f5e] transition duration-150 ease-in-out"
               onClick={() => setMobileNavOpen(false)}
             >
               Entre em contato

@@ -14,7 +14,7 @@ export default function Footer() {
                 {/* Logo */}
                 <Link href="/" className="inline-block" aria-label="Cruip">
                   <svg
-                    className="w-8 h-8 fill-current text-purple-600"
+                    className="w-8 h-8 fill-current text-[#f43f5e]"
                     viewBox="0 0 32 32"
                     xmlns="http://www.w3.org/2000/svg"
                   >
@@ -23,7 +23,7 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-gray-400">
-                Na MultiContab, estamos comprometidos em oferecer soluções
+                Na HellowChat, estamos comprometidos em oferecer soluções
                 contábeis inovadoras e serviços de atendimento excepcionais para
                 impulsionar o sucesso dos nossos clientes.
               </div>
@@ -37,7 +37,7 @@ export default function Footer() {
               <li>
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-[#f43f5e] bg-gray-800 hover:text-gray-100 hover:bg-[#f43f5e] rounded-full transition duration-150 ease-in-out"
                   aria-label="Twitter"
                 >
                   <svg
@@ -52,7 +52,7 @@ export default function Footer() {
               <li className="ml-4">
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-[#f43f5e] bg-gray-800 hover:text-gray-100 hover:bg-[#f43f5e] rounded-full transition duration-150 ease-in-out"
                   aria-label="Github"
                 >
                   <svg
@@ -67,7 +67,7 @@ export default function Footer() {
               <li className="ml-4">
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-[#f43f5e] bg-gray-800 hover:text-gray-100 hover:bg-[#f43f5e] rounded-full transition duration-150 ease-in-out"
                   aria-label="Facebook"
                 >
                   <svg
@@ -82,7 +82,7 @@ export default function Footer() {
               <li className="ml-4">
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-[#f43f5e] bg-gray-800 hover:text-gray-100 hover:bg-[#f43f5e] rounded-full transition duration-150 ease-in-out"
                   aria-label="Instagram"
                 >
                   <svg
@@ -99,7 +99,7 @@ export default function Footer() {
               <li className="ml-4">
                 <Link
                   href="/"
-                  className="flex justify-center items-center text-purple-600 bg-gray-800 hover:text-gray-100 hover:bg-purple-600 rounded-full transition duration-150 ease-in-out"
+                  className="flex justify-center items-center text-[#f43f5e] bg-gray-800 hover:text-gray-100 hover:bg-[#f43f5e] rounded-full transition duration-150 ease-in-out"
                   aria-label="Linkedin"
                 >
                   <svg
@@ -114,8 +114,8 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">
-              &copy; multicontab.net.br. All rights reserved.
+            <div className="text-[#f43f5e] text-sm mr-4">
+              &copy; HellowChat.net.br. All rights reserved.
             </div>
           </div>
         </div>

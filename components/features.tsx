@@ -43,7 +43,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-[#f43f5e]"
                   width="64"
                   height="64"
                   rx="32"
@@ -71,7 +71,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <circle
-                  className="fill-current text-purple-600"
+                  className="fill-current text-[#f43f5e]"
                   cx="32"
                   cy="32"
                   r="32"
@@ -98,7 +98,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-[#f43f5e]"
                   width="64"
                   height="64"
                   rx="32"
@@ -125,7 +125,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-[#f43f5e]"
                   width="64"
                   height="64"
                   rx="32"
@@ -152,7 +152,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-[#f43f5e]"
                   width="64"
                   height="64"
                   rx="32"
@@ -179,7 +179,7 @@ export default function Features() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <rect
-                  className="fill-current text-purple-600"
+                  className="fill-current text-[#f43f5e]"
                   width="64"
                   height="64"
                   rx="32"

@@ -11,7 +11,7 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
               <svg
-                className="w-8 h-8 fill-current text-purple-600"
+                className="w-8 h-8 fill-current text-[#f43f5e]"
                 viewBox="0 0 32 32"
                 xmlns="http://www.w3.org/2000/svg"
               >
@@ -26,16 +26,16 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <a
-                  href="https://api.whatsapp.com/send?phone=5563992086480&text=Preciso%20de%20ajuda%20com%20meu%20sistema%20MultiContab."
-                  className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
+                  href="https://api.whatsapp.com/send?phone=556391000032&text=Preciso%20de%20ajuda%20com%20meu%20sistema%20HellowChat."
+                  className="font-medium text-[#f43f5e] hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Central do cliente
                 </a>
               </li>
               <li>
                 <a
-                  href="https://api.whatsapp.com/send?phone=5563992086480&text=Ol%C3%A1,%20quero%20saber%20mais%20sobre%20sistema%20MultiContab."
-                  className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3"
+                  href="https://api.whatsapp.com/send?phone=556391000032&text=Ol%C3%A1,%20quero%20saber%20mais%20sobre%20sistema%20HellowChat."
+                  className="btn-sm text-white bg-[#f43f5e] hover:bg-[#f43f5e] ml-3"
                 >
                   Entre em contato
                 </a>

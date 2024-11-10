@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "MultiContab",
-  description: "MultiContab chat",
+  title: "HellowChat",
+  description: "HellowChat",
 };
 
 import Hero from "@/components/hero";
@@ -13,10 +13,10 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Features />
+ {/*      <Features />
       <Zigzag />
       <Testimonials />
-      <Newsletter />
+      <Newsletter /> */}
     </>
   );
 }

@@ -60,8 +60,8 @@ export default function Hero() {
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
-                  className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0"
-                  href="https://api.whatsapp.com/send?phone=5563992086480&text=Ol%C3%A1,%20quero%20agendar%20uma%20demonstra%C3%A7%C3%A3o%20do%20sistema%20MultiContab."
+                  className="btn text-white bg-[#f43f5e] hover:bg-[#f43f5e] w-full mb-4 sm:w-auto sm:mb-0"
+                  href="https://api.whatsapp.com/send?phone=556391000032&text=Ol%C3%A1,%20quero%20agendar%20uma%20demonstra%C3%A7%C3%A3o%20do%20sistema%20HellowChat."
                 >
                   Agendar demonstração
                 </a>
@@ -69,7 +69,7 @@ export default function Hero() {
               <div data-aos="fade-up" data-aos-delay="600">
                 <a
                   className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4"
-                  href="https://api.whatsapp.com/send?phone=5563992086480&text=Ol%C3%A1,%20quero%20conhecer%20um%20pouco%20mais%20sobre%20a%20plataforma%20MultiContab."
+                  href="https://api.whatsapp.com/send?phone=556391000032&text=Ol%C3%A1,%20quero%20conhecer%20um%20pouco%20mais%20sobre%20a%20plataforma%20HellowChat."
                 >
                   Conheça mais
                 </a>
@@ -77,7 +77,7 @@ export default function Hero() {
             </div>
           </div>
 
-          <ModalVideo
+    {/*       <ModalVideo
             thumb={VideoThumb}
             thumbWidth={1024}
             thumbHeight={576}
@@ -85,7 +85,7 @@ export default function Hero() {
             video="/videos/video.mp4"
             videoWidth={1920}
             videoHeight={1080}
-          />
+          /> */}
         </div>
       </div>
     </section>
