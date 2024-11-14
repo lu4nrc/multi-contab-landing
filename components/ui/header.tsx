@@ -24,14 +24,14 @@ export default function Header() {
           <nav className="hidden md:flex md:grow">
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
-              <li>
+          {/*     <li>
                 <a
                   href="https://api.whatsapp.com/send?phone=556391000032&text=Preciso%20de%20ajuda%20com%20meu%20sistema%20HellowChat."
                   className="font-medium text-[#f43f5e] hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Central do cliente
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a
                   href="https://api.whatsapp.com/send?phone=556391000032&text=Ol%C3%A1,%20quero%20saber%20mais%20sobre%20sistema%20HellowChat."

@@ -29,8 +29,8 @@ export default function Hero() {
                 y2="577.921"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#5D5DFF" stopOpacity=".01" />
-                <stop offset="1" stopColor="#5D5DFF" stopOpacity=".32" />
+                <stop stopColor="#f43f5e" stopOpacity=".01" />
+                <stop offset="1" stopColor="#f43f5e" stopOpacity=".32" />
               </linearGradient>
             </defs>
             <path

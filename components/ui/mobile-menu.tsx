@@ -69,7 +69,7 @@ export default function MobileMenu() {
         }
       >
         <ul className="bg-gray-800 px-4 py-2">
-          <li>
+     {/*      <li>
             <a
               href="https://api.whatsapp.com/send?phone=556391000032&text=Preciso%20de%20ajuda%20com%20meu%20sistema%20HellowChat."
               className="flex font-medium w-full text-[#f43f5e] hover:text-gray-200 py-2 justify-center"
@@ -77,7 +77,7 @@ export default function MobileMenu() {
             >
               Central do cliente
             </a>
-          </li>
+          </li> */}
           <li>
             <a
               href="https://api.whatsapp.com/send?phone=556391000032&text=Ol%C3%A1,%20quero%20saber%20mais%20sobre%20sistema%20HellowChat."
